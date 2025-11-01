@@ -1,0 +1,3 @@
+# AsthmaShield Logo
+
+This is a placeholder for the AsthmaShield logo. In a real implementation, you would place your actual logo image here.

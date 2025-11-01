@@ -1,0 +1,13 @@
+report_id,timestamp,user_id,latitude,longitude,wheezing,shortness_of_breath,chest_tightness,coughing,difficulty_sleeping,severity,verified
+rep_773154,2025-10-31T14:34:03.317051,anonymous,18.5204,73.8567,False,True,False,True,False,High,False
+rep_779038,2025-10-31T14:34:07.760373,anonymous,18.5204,73.8567,False,True,False,True,False,High,False
+rep_585690,2025-10-31T14:34:11.933922,anonymous,18.5204,73.8567,False,True,False,True,False,High,False
+rep_440938,2025-10-31T14:34:16.124403,anonymous,18.5204,73.8567,False,True,False,True,False,High,False
+rep_123631,2025-10-31T14:34:20.271351,anonymous,18.5204,73.8567,False,True,False,True,False,High,False
+rep_681998,2025-10-31T14:34:24.484699,anonymous,18.5204,73.8567,False,True,False,True,False,High,False
+rep_561278,2025-10-31T14:34:28.692657,anonymous,18.5204,73.8567,False,True,False,True,False,High,False
+rep_769755,2025-10-31T14:36:44.785942,anonymous,18.5204,73.8567,False,True,True,False,False,High,False
+rep_369140,2025-10-31T14:36:48.983835,anonymous,18.5204,73.8567,False,True,True,False,False,High,False
+rep_403388,2025-10-31T14:36:53.215667,anonymous,18.5204,73.8567,False,True,True,False,False,High,False
+rep_721668,2025-10-31T14:36:57.411849,anonymous,18.5204,73.8567,False,True,True,False,False,High,False
+rep_21883,2025-10-31T14:37:01.657202,anonymous,18.5204,73.8567,False,True,True,False,False,High,False
